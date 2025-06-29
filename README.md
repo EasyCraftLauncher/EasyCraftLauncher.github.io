@@ -1,2 +1,2 @@
-# EasyCraftLauncher.github.io
+# EasyCraftLauncher
 一个简易的Minecraft启动器
